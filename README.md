@@ -1,2 +1,1 @@
-# Proy27
-Pendulo
+# NC27
